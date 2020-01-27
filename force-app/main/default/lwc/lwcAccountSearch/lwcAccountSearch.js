@@ -7,7 +7,7 @@ import ACCOUNTLOCATORMC from '@salesforce/messageChannel/AccountLocatorMsgChanne
 const DELAY = 300;
 
 export default class LwcAccountSearch extends LightningElement {
-    @track searchTerm = 'San Francisco';
+    @track searchTerm = '';
 
     //Lightning Message service
     context = createMessageContext();

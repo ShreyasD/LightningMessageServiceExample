@@ -9,3 +9,4 @@
 .sfdx/typings/lwc/user.d.ts
 .sfdx/typings/lwc/apex/AccountSearchController.d.ts
 .vscode/settings.json
+.sfdx/orgs/shreyas_dhond@curious-moose-ne67ny.com/metadata/metadataTypes.json
