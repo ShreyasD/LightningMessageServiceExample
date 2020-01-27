@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LightningMessageChannel xmlns="http://soap.sforce.com/2006/04/metadata">
+    <masterLabel>AccountLocatorMsgChannel</masterLabel>
+    <isExposed>true</isExposed>
+    <description>Message channel to pass accounts in the Account Locator.</description>
+    <lightningMessageFields>
+        <fieldName>accounts</fieldName>
+        <description>Accounts that are loaded.</description>
+    </lightningMessageFields>
+</LightningMessageChannel>
